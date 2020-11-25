@@ -1,6 +1,6 @@
 # Online Whiteboard
 An online whiteboard application built in Vanilla JavaScript to improve the teaching experience.</br>
-[View it]()
+[View it](https://sapna2001.github.io/Online-Whiteboard/)
 
 ## Tech stacks used :-
 - HTML
